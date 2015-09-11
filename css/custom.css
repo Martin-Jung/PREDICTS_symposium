@@ -98,8 +98,10 @@ left:0;
 background: rgba(255,255,255,.5);
 }
 
-#birds img {
-  width:200%;
-  height:200%;
-  z-index:-1000;
+.icon img {
+  width:90px;
+  height:90px;
+  position:absolute;
+  top:0px;
+  right:50px;
 }
